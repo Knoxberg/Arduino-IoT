@@ -1,0 +1,30 @@
+========================================================
+                Arduino Project Dependencies
+========================================================
+
+Board Information
+--------------------------------------------------------
+Tested On: DOIT ESP32 DEVKIT V1
+Compatible: Any ESP32 Microcontroller
+
+Board Manager Dependencies
+--------------------------------------------------------
+1. esp32
+   - Version: 2.0.14
+   - Provider: Espressif Systems
+
+Libraries Used
+--------------------------------------------------------
+1. Blynk
+   - Version: 1.3.2
+   - Author: Volodymyr Shymanskyy
+
+2. BlynkNcpDriver
+   - Version: 0.6.3
+   - Author: Volodymyr Shymanskyy
+
+========================================================
+Note: Ensure that your Arduino IDE has the specified
+versions of the board package and libraries installed
+for optimal compatibility and performance.
+========================================================
